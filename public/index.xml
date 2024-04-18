@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Life in Cage</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Life in Cage</description>
     <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 18 Apr 2024 13:41:11 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Apr 2024 13:41:11 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>多年以后的第一篇博客 想搭建一个博客是几个月前的事情。&#xA;中学时代在QQ空间写字，大学时代在校内网写字，后来在新浪微博，在Twitter，在Facebook&amp;hellip;那些文字后来都遗失了。可是人终究会衰老，记忆终究会淡忘，还是记录一下吧。</description>
+    </item>
   </channel>
 </rss>
